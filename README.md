@@ -26,6 +26,3 @@ A small python program using the numpy and the matplotlib.pyplot libraries to cr
 Statistical analysis of whether economic indicators such as R. GDP Growth, Inflation Rate, Unemployment Rate, etc. were robust estimators for presidential approval. Included within are a data preprocessing program using python and the pandas package, a data analysis program using R, and the report itself. The predominant model used is linear regression. The report discusses the transforms to better fit the data as well as diagnostics, strengths, and shortcomings.
 
 Made for STA302.
-
-## CHEM_IA and PHY_IA
-Lab reports made for the International Baccaleurate program. For the physics course I investigated the effects of a solenoidal magnetic field and its magnitude as a dependent variable on number of coils. For the chemistry course I investigated the effects of temperature and concentration of a solute on the conductivity of a solution. In all of these experiments I utilized and programmed imaging and database software to perform my analysis. 
